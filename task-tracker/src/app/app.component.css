@@ -1,0 +1,11 @@
+.task-container {
+    /* Setează fundalul și marginile */
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+    
+    /* Adaugă un efect de umbră pentru un aspect mai plăcut */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
